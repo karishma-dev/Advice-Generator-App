@@ -31,7 +31,7 @@ body {
   grid-template-rows: auto 0px;
 }
 body{
-    background-color: rgb(39, 38, 38);
+    background-color: rgba(13, 12, 14, 0.95);
 }
 
 /* Main */
