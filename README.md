@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Krrish105/Advice-Generator-App](https://github.com/Krrish105/Advice-Generator-App)
-- Live Site URL: [https://krrish105.github.io/Advice-Generator-App/](https://krrish105.github.io/Advice-Generator-App/)
+- Solution URL: [https://github.com/karishma-dev/Advice-Generator-App](https://github.com/karishma-dev/Advice-Generator-App)
+- Live Site URL: [https://karishma-dev.github.io/Advice-Generator-App/](https://karishma-dev.github.io/Advice-Generator-App/)
 
 ## My process
 
@@ -43,7 +43,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [Krrish105](https://www.frontendmentor.io/profile/Krrish105)
+- Frontend Mentor - [karishma-dev](https://www.frontendmentor.io/profile/karishma-dev)
 - Twitter - [_karishma10](https://twitter.com/_karishma10)
-- Codepen - [Krrish105](https://codepen.io/krrish105)
+- Codepen - [karishma-dev](https://codepen.io/karishma-dev)
 
